@@ -1,0 +1,8 @@
+{
+    "status": "ok",
+    "type": "proxy",
+    "platforms": [
+        "velocity",
+        "bungee-cord"
+    ]
+}
