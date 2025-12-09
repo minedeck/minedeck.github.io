@@ -13,12 +13,12 @@
             "type": "alpha"
         },
         "1.21.11-rc2": {
-            "url": "https://fill-data.papermc.io/v1/objects/0eaf668512717dc09bca492d6768d2d8f4acda64c82ae7a2037ad34c1ee66642/paper-1.21.11-rc2-22.jar",
+            "url": "https://fill-data.papermc.io/v1/objects/417e9e6fb7cd34245c6a2a5ad4479eea018dc373fe36e74a6224b3652c784723/paper-1.21.11-rc2-29.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "0eaf668512717dc09bca492d6768d2d8f4acda64c82ae7a2037ad34c1ee66642"
+                "sha256": "417e9e6fb7cd34245c6a2a5ad4479eea018dc373fe36e74a6224b3652c784723"
             },
-            "build": 22,
+            "build": 29,
             "type": "alpha"
         },
         "1.21.11-rc1": {
