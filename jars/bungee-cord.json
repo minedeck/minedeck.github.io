@@ -5,10 +5,7 @@
     "data": {
         "latest": {
             "url": "https://hub.spigotmc.org/jenkins/job/BungeeCord/2010/artifact/bootstrap/target/BungeeCord.jar",
-            "checksum": {
-                "sha1": null,
-                "sha256": null
-            },
+            "checksum": null,
             "build": 2010,
             "type": "latest"
         }

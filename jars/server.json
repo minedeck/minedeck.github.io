@@ -2,11 +2,11 @@
     "status": "ok",
     "type": "server",
     "platforms": [
-        "paper",
-        "vanilla",
-        "folia",
         "fabric",
+        "folia",
+        "forge-installer",
         "neoforge-installer",
-        "forge-installer"
+        "paper",
+        "vanilla"
     ]
 }
