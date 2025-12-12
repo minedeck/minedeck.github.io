@@ -3,6 +3,15 @@
     "platform": "forge-installer",
     "type": "server",
     "data": {
+        "1.21.11": {
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.11-61.0.2/forge-1.21.11-61.0.2-installer.jar",
+            "checksum": {
+                "sha1": "37c2989518c62e90343719a8ec167d6c1caf1530",
+                "sha256": null
+            },
+            "type": "latest",
+            "build": "61.0.2"
+        },
         "1.21.10": {
             "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.10-60.1.0/forge-1.21.10-60.1.0-installer.jar",
             "checksum": {

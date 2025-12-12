@@ -3,6 +3,15 @@
     "platform": "paper",
     "type": "server",
     "data": {
+        "1.21.11": {
+            "url": "https://fill-data.papermc.io/v1/objects/7c16d3931f725a575aa6caa3e537d0ccc962e1413644f9bb31f885fc3d6a9a98/paper-1.21.11-38.jar",
+            "checksum": {
+                "sha1": null,
+                "sha256": "7c16d3931f725a575aa6caa3e537d0ccc962e1413644f9bb31f885fc3d6a9a98"
+            },
+            "build": 38,
+            "type": "alpha"
+        },
         "1.21.11-rc3": {
             "url": "https://fill-data.papermc.io/v1/objects/213ceae4eb2268fc110a8605c00597ab56fe733ec41a59d06689de178bbec3f9/paper-1.21.11-rc3-31.jar",
             "checksum": {

@@ -3,297 +3,304 @@
     "platform": "fabric",
     "type": "server",
     "data": {
-        "1.21.10": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.10/0.18.1/1.1.0/server/jar",
+        "1.21.11": {
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.11/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
+            "installer": "1.1.0",
+            "type": "stable"
+        },
+        "1.21.10": {
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.10/0.18.2/1.1.0/server/jar",
+            "checksum": null,
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21.9": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.9/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.9/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21.8": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.8/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.8/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21.7": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.7/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.7/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21.6": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.6/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.6/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21.5": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.5/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.5/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21.4": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.4/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.4/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21.3": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.3/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.3/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21.2": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.2/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.2/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21.1": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.21": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.20.6": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.6/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.6/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.20.5": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.5/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.5/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.20.4": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.4/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.4/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.20.3": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.3/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.3/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.20.2": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.2/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.2/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.20.1": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.20": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.19.4": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19.4/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19.4/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.19.3": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19.3/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19.3/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.19.2": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19.2/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19.2/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.19.1": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19.1/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19.1/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.19": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.19/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.18.2": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.18.2/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.18.2/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.18.1": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.18.1/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.18.1/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.18": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.18/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.18/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.17.1": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.17.1/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.17.1/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.17": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.17/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.17/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.16.5": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.5/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.5/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.16.4": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.4/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.4/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.16.3": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.3/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.3/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.16.2": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.2/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.2/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.16.1": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.1/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16.1/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.16": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.16/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.15.2": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.15.2/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.15.2/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.15.1": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.15.1/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.15.1/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.15": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.15/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.15/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.14.4": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14.4/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14.4/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.14.3": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14.3/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14.3/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.14.2": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14.2/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14.2/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.14.1": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14.1/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14.1/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         },
         "1.14": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14/0.18.1/1.1.0/server/jar",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.14/0.18.2/1.1.0/server/jar",
             "checksum": null,
-            "loader": "0.18.1",
+            "loader": "0.18.2",
             "installer": "1.1.0",
             "type": "stable"
         }
