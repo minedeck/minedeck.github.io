@@ -4,9 +4,9 @@
     "type": "proxy",
     "data": {
         "latest": {
-            "url": "https://hub.spigotmc.org/jenkins/job/BungeeCord/2011/artifact/bootstrap/target/BungeeCord.jar",
+            "url": "https://hub.spigotmc.org/jenkins/job/BungeeCord/2012/artifact/bootstrap/target/BungeeCord.jar",
             "checksum": null,
-            "build": 2011,
+            "build": 2012,
             "type": "latest"
         }
     }

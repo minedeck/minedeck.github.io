@@ -3,6 +3,15 @@
     "platform": "folia",
     "type": "server",
     "data": {
+        "1.21.11": {
+            "url": "https://fill-data.papermc.io/v1/objects/15e2a9dcca5f11f4aa02cf36a9d01ea2972ddaa5d479edeabc08bc83a32a48e3/folia-1.21.11-2.jar",
+            "checksum": {
+                "sha1": null,
+                "sha256": "15e2a9dcca5f11f4aa02cf36a9d01ea2972ddaa5d479edeabc08bc83a32a48e3"
+            },
+            "build": 2,
+            "type": "alpha"
+        },
         "1.21.8": {
             "url": "https://fill-data.papermc.io/v1/objects/233843cfd5001b6f658fcab549178d694cc37f0277d004ea295de0a94c57278f/folia-1.21.8-6.jar",
             "checksum": {
