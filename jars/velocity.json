@@ -3,6 +3,24 @@
     "platform": "velocity",
     "type": "proxy",
     "data": {
+        "3.5.0-SNAPSHOT": {
+            "url": "https://fill-data.papermc.io/v1/objects/a020abc542e3fafc15ad5f4ad5802a77b0f2c2f11b905d48472f25a9eba886e3/velocity-3.5.0-SNAPSHOT-570.jar",
+            "checksum": {
+                "sha1": null,
+                "sha256": "a020abc542e3fafc15ad5f4ad5802a77b0f2c2f11b905d48472f25a9eba886e3"
+            },
+            "build": 570,
+            "type": "beta"
+        },
+        "3.4.0": {
+            "url": "https://fill-data.papermc.io/v1/objects/fb599cbda6a6d01decce5e281f71f51cae7cacffcfafca32a09601f407b0583e/velocity-3.4.0-566.jar",
+            "checksum": {
+                "sha1": null,
+                "sha256": "fb599cbda6a6d01decce5e281f71f51cae7cacffcfafca32a09601f407b0583e"
+            },
+            "build": 566,
+            "type": "stable"
+        },
         "3.4.0-SNAPSHOT": {
             "url": "https://fill-data.papermc.io/v1/objects/fe53021f3168322cb6cb68f78699866fd098df3c306e4359847a10b0d02689ef/velocity-3.4.0-SNAPSHOT-563.jar",
             "checksum": {
