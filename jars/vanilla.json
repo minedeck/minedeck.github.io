@@ -3,6 +3,14 @@
     "platform": "vanilla",
     "type": "server",
     "data": {
+        "26.1-rc-1": {
+            "url": "https://piston-data.mojang.com/v1/objects/5f282bb1d2ca058ef0c31a42be5b9ad69bc9cea3/server.jar",
+            "checksum": {
+                "sha1": "5f282bb1d2ca058ef0c31a42be5b9ad69bc9cea3",
+                "sha256": null
+            },
+            "type": "snapshot"
+        },
         "26.1-pre-3": {
             "url": "https://piston-data.mojang.com/v1/objects/f731aaf0a0f6be00b5aaba1fabbd75ce750e92e4/server.jar",
             "checksum": {
@@ -6115,18 +6123,18 @@
             },
             "type": "release"
         },
-        "13w37b": {
-            "url": "https://launcher.mojang.com/v1/objects/f6322a6791bbeabac94cbaa1cf9b779ad88b120f/server.jar",
-            "checksum": {
-                "sha1": "f6322a6791bbeabac94cbaa1cf9b779ad88b120f",
-                "sha256": null
-            },
-            "type": "snapshot"
-        },
         "1.6.3": {
             "url": "https://launcher.mojang.com/v1/objects/5a4c69bdf7c4a9aa9580096805d8497ba7721e05/server.jar",
             "checksum": {
                 "sha1": "5a4c69bdf7c4a9aa9580096805d8497ba7721e05",
+                "sha256": null
+            },
+            "type": "snapshot"
+        },
+        "13w37b": {
+            "url": "https://launcher.mojang.com/v1/objects/f6322a6791bbeabac94cbaa1cf9b779ad88b120f/server.jar",
+            "checksum": {
+                "sha1": "f6322a6791bbeabac94cbaa1cf9b779ad88b120f",
                 "sha256": null
             },
             "type": "snapshot"
