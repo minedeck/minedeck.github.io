@@ -3,6 +3,14 @@
     "platform": "vanilla",
     "type": "server",
     "data": {
+        "26.1": {
+            "url": "https://piston-data.mojang.com/v1/objects/3872a7f07a1a595e651aef8b058dfc2bb3772f46/server.jar",
+            "checksum": {
+                "sha1": "3872a7f07a1a595e651aef8b058dfc2bb3772f46",
+                "sha256": null
+            },
+            "type": "release"
+        },
         "26.1-rc-3": {
             "url": "https://piston-data.mojang.com/v1/objects/17e0a5221b14e1cc3d39eea8aa626b2d20671efc/server.jar",
             "checksum": {
