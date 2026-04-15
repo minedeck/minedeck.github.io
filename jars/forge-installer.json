@@ -94,13 +94,13 @@
             "build": "55.1.0"
         },
         "1.21.4": {
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.4-54.1.0/forge-1.21.4-54.1.0-installer.jar",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.4-54.1.14/forge-1.21.4-54.1.14-installer.jar",
             "checksum": {
-                "sha1": "12ca4988e1c4f3966547a6b1b63850b1293564ae",
+                "sha1": "53bbf7ee6f364ad72b06a2512e5f9ed977b1e30d",
                 "sha256": null
             },
             "type": "recommended",
-            "build": "54.1.0"
+            "build": "54.1.14"
         },
         "1.21.3": {
             "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.3-53.1.0/forge-1.21.3-53.1.0-installer.jar",
