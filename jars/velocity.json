@@ -4,12 +4,12 @@
     "type": "proxy",
     "data": {
         "3.5.0-SNAPSHOT": {
-            "url": "https://fill-data.papermc.io/v1/objects/ff08e7cae29dea20fcdb4f14092d825add6d265d5b2599ea5d5dbf54cb43c2d6/velocity-3.5.0-SNAPSHOT-597.jar",
+            "url": "https://fill-data.papermc.io/v1/objects/7f97f572222a58a860a3e1164f046f26dd28c5cabab2d1749a8901fe99be77b5/velocity-3.5.0-SNAPSHOT-599.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "ff08e7cae29dea20fcdb4f14092d825add6d265d5b2599ea5d5dbf54cb43c2d6"
+                "sha256": "7f97f572222a58a860a3e1164f046f26dd28c5cabab2d1749a8901fe99be77b5"
             },
-            "build": 597,
+            "build": 599,
             "type": "stable"
         },
         "3.4.0": {
