@@ -3,6 +3,14 @@
     "platform": "vanilla",
     "type": "server",
     "data": {
+        "26.2-pre-1": {
+            "url": "https://piston-data.mojang.com/v1/objects/4303619d9f1a22f51a98adbcd2d528f43c5b19bb/server.jar",
+            "checksum": {
+                "sha1": "4303619d9f1a22f51a98adbcd2d528f43c5b19bb",
+                "sha256": null
+            },
+            "type": "snapshot"
+        },
         "26.2-snapshot-8": {
             "url": "https://piston-data.mojang.com/v1/objects/63a80c132f2270af2f43161db596fce69e3e5339/server.jar",
             "checksum": {
