@@ -4,12 +4,12 @@
     "type": "server",
     "data": {
         "26.1.2": {
-            "url": "https://fill-data.papermc.io/v1/objects/f98af46f7254b6de3a8c2301f10a482ffc0e37e74569d794831357d56749baf4/paper-26.1.2-68.jar",
+            "url": "https://fill-data.papermc.io/v1/objects/d30fae0c74092b10855f0412ca6b265c60301a013d34bc28a2a41bf5682dd80b/paper-26.1.2-69.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "f98af46f7254b6de3a8c2301f10a482ffc0e37e74569d794831357d56749baf4"
+                "sha256": "d30fae0c74092b10855f0412ca6b265c60301a013d34bc28a2a41bf5682dd80b"
             },
-            "build": 68,
+            "build": 69,
             "type": "stable"
         },
         "26.1.1": {
