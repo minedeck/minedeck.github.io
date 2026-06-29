@@ -13,13 +13,13 @@
             "build": "65.0.1"
         },
         "26.1.2": {
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.0.10/forge-26.1.2-64.0.10-installer.jar",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.0.11/forge-26.1.2-64.0.11-installer.jar",
             "checksum": {
-                "sha1": "412f56141dc5df742dce15413306d1d534b74273",
+                "sha1": "709c4f6c5af46ed563a18c7d6f9aa83d669f5487",
                 "sha256": null
             },
             "type": "latest",
-            "build": "64.0.10"
+            "build": "64.0.11"
         },
         "26.1.1": {
             "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.1-63.0.2/forge-26.1.1-63.0.2-installer.jar",
