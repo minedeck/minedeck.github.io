@@ -3,13 +3,22 @@
     "platform": "velocity",
     "type": "proxy",
     "data": {
-        "3.5.0-SNAPSHOT": {
-            "url": "https://fill-data.papermc.io/v1/objects/3b25292797526ce2f354f99bad42076014199c678c14a487220acaf97d07ef59/velocity-3.5.0-SNAPSHOT-608.jar",
+        "3.6.0-SNAPSHOT": {
+            "url": "https://fill-data.papermc.io/v1/objects/a87eea534bd483209aa5ccb03822cb14d5006796d9c18a59e6e34cfd3c28b5b0/velocity-3.6.0-SNAPSHOT-613.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "3b25292797526ce2f354f99bad42076014199c678c14a487220acaf97d07ef59"
+                "sha256": "a87eea534bd483209aa5ccb03822cb14d5006796d9c18a59e6e34cfd3c28b5b0"
             },
-            "build": 608,
+            "build": 613,
+            "type": "stable"
+        },
+        "3.5.0-SNAPSHOT": {
+            "url": "https://fill-data.papermc.io/v1/objects/0c3d16b70ed757638b696a9a87d670b4301f23a6fef30c3acbbd9b0e0d7b29bb/velocity-3.5.0-SNAPSHOT-609.jar",
+            "checksum": {
+                "sha1": null,
+                "sha256": "0c3d16b70ed757638b696a9a87d670b4301f23a6fef30c3acbbd9b0e0d7b29bb"
+            },
+            "build": 609,
             "type": "stable"
         },
         "3.4.0": {
