@@ -4,13 +4,13 @@
     "type": "server",
     "data": {
         "1.26.1": {
-            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.81/neoforge-26.1.2.81-installer.jar",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.82/neoforge-26.1.2.82-installer.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "033b966475483a25f24f526105bb0a44cf7193ea88c30885c7fc752bb8675315"
+                "sha256": "298747726798cd88c6b32f3fcf22102131b430f9e709faad3b91394486d50a4b"
             },
             "type": "stable",
-            "build": "26.1.2.81"
+            "build": "26.1.2.82"
         },
         "1.21.11": {
             "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.11.44/neoforge-21.11.44-installer.jar",
