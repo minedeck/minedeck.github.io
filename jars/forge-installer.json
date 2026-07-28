@@ -4,22 +4,22 @@
     "type": "server",
     "data": {
         "26.2": {
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.0.9/forge-26.2-65.0.9-installer.jar",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.1.0/forge-26.2-65.1.0-installer.jar",
             "checksum": {
-                "sha1": "2c27fc58bc955fb248829bb271b0844b607ad313",
+                "sha1": "6b7d4ccc26957536585454613e96962ae45decd0",
                 "sha256": null
             },
-            "type": "latest",
-            "build": "65.0.9"
+            "type": "recommended",
+            "build": "65.1.0"
         },
         "26.1.2": {
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.0.14/forge-26.1.2-64.0.14-installer.jar",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.1.0/forge-26.1.2-64.1.0-installer.jar",
             "checksum": {
-                "sha1": "4ecc96770f57b4d87688806a5bf564a00ed76f2f",
+                "sha1": "28e67da967d19624aecee183b4390dbcba71a4ce",
                 "sha256": null
             },
-            "type": "latest",
-            "build": "64.0.14"
+            "type": "recommended",
+            "build": "64.1.0"
         },
         "26.1.1": {
             "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.1-63.0.2/forge-26.1.1-63.0.2-installer.jar",
