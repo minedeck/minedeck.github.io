@@ -4,13 +4,13 @@
     "type": "server",
     "data": {
         "1.26.1": {
-            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.92/neoforge-26.1.2.92-installer.jar",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.93/neoforge-26.1.2.93-installer.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "dae77c010390909dcb0461a9fba220291940cbb989b4a533d586a624ad6ec702"
+                "sha256": "b2fd138790f3cea71f46f53954983c99d46cd61def6d1c403a214c2f0102e818"
             },
             "type": "stable",
-            "build": "26.1.2.92"
+            "build": "26.1.2.93"
         },
         "1.21.11": {
             "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.11.45/neoforge-21.11.45-installer.jar",
@@ -67,13 +67,13 @@
             "build": "21.3.97"
         },
         "1.21.1": {
-            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.244/neoforge-21.1.244-installer.jar",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.247/neoforge-21.1.247-installer.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "ac7bea8f5c8a1d64f8787d177cc890e3b9abf67ede800f999fe05386d46fcaa8"
+                "sha256": "6fa14629491a796d75a39bc31b6e65eb3636b6ba2e1368577c061ba0591e8be4"
             },
             "type": "stable",
-            "build": "21.1.244"
+            "build": "21.1.247"
         },
         "1.21.0": {
             "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.0.167/neoforge-21.0.167-installer.jar",
