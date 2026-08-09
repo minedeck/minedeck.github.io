@@ -3,6 +3,15 @@
     "platform": "neoforge-installer",
     "type": "server",
     "data": {
+        "1.26.2": {
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.2.0.57/neoforge-26.2.0.57-installer.jar",
+            "checksum": {
+                "sha1": null,
+                "sha256": "4114a13299b6455a454f7004f188c5a1d554125efa582f04d67a10fc599f7d46"
+            },
+            "type": "stable",
+            "build": "26.2.0.57"
+        },
         "1.26.1": {
             "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.94/neoforge-26.1.2.94-installer.jar",
             "checksum": {
