@@ -3,6 +3,15 @@
     "platform": "velocity",
     "type": "proxy",
     "data": {
+        "4.1.0": {
+            "url": "https://fill-data.papermc.io/v1/objects/bff15036c6a43f0db66600ee405407aa71e95fbf05d692e35e8ab364c7c9083d/velocity-4.1.0-22.jar",
+            "checksum": {
+                "sha1": null,
+                "sha256": "bff15036c6a43f0db66600ee405407aa71e95fbf05d692e35e8ab364c7c9083d"
+            },
+            "build": 22,
+            "type": "stable"
+        },
         "4.1.0-SNAPSHOT": {
             "url": "https://fill-data.papermc.io/v1/objects/f840e8dbf9e3220f1ae400aa67c462ef4213d64fd03209dae284e2e991147c93/velocity-4.1.0-SNAPSHOT-21.jar",
             "checksum": {
