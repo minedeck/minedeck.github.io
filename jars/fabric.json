@@ -3,6 +3,13 @@
     "platform": "fabric",
     "type": "server",
     "data": {
+        "26.3": {
+            "url": "https://meta.fabricmc.net/v2/versions/loader/26.3/0.19.5/1.1.2/server/jar",
+            "checksum": null,
+            "loader": "0.19.5",
+            "installer": "1.1.2",
+            "type": "stable"
+        },
         "26.2": {
             "url": "https://meta.fabricmc.net/v2/versions/loader/26.2/0.19.5/1.1.2/server/jar",
             "checksum": null,
