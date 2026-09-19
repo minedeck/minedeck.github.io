@@ -4,12 +4,12 @@
     "type": "server",
     "data": {
         "26.3": {
-            "url": "https://fill-data.papermc.io/v1/objects/f623c073913db7f21c6338eef22a00b19a8d87c1ef3115c2060d2382b90f4650/paper-26.3-19.jar",
+            "url": "https://fill-data.papermc.io/v1/objects/50afea9c5b561d3cec8ad018463d59feb346035f0593800e333d9ad68ca91069/paper-26.3-24.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "f623c073913db7f21c6338eef22a00b19a8d87c1ef3115c2060d2382b90f4650"
+                "sha256": "50afea9c5b561d3cec8ad018463d59feb346035f0593800e333d9ad68ca91069"
             },
-            "build": 19,
+            "build": 24,
             "type": "alpha"
         },
         "26.3-rc-3": {
@@ -22,12 +22,12 @@
             "type": "alpha"
         },
         "26.2": {
-            "url": "https://fill-data.papermc.io/v1/objects/274bbcb9807ad79a479617ce695a7c0686e652a8d1cabfd0e288d92a3ea29593/paper-26.2-124.jar",
+            "url": "https://fill-data.papermc.io/v1/objects/445435693b4fe44575b55eb7f7fc529ca8f535e1e673f065d8759846ae308271/paper-26.2-125.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "274bbcb9807ad79a479617ce695a7c0686e652a8d1cabfd0e288d92a3ea29593"
+                "sha256": "445435693b4fe44575b55eb7f7fc529ca8f535e1e673f065d8759846ae308271"
             },
-            "build": 124,
+            "build": 125,
             "type": "stable"
         },
         "26.2-rc-2": {
