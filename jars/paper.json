@@ -22,12 +22,12 @@
             "type": "alpha"
         },
         "26.2": {
-            "url": "https://fill-data.papermc.io/v1/objects/670226293b7ebaf0168e3d9a3e9b31036ba89b3c171d8793a34675b183fd1bff/paper-26.2-127.jar",
+            "url": "https://fill-data.papermc.io/v1/objects/85efd679ac1b5c0133aa53ea4222fcdc65b8a5b0d7f4e85497b64747f19634aa/paper-26.2-128.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "670226293b7ebaf0168e3d9a3e9b31036ba89b3c171d8793a34675b183fd1bff"
+                "sha256": "85efd679ac1b5c0133aa53ea4222fcdc65b8a5b0d7f4e85497b64747f19634aa"
             },
-            "build": 127,
+            "build": 128,
             "type": "stable"
         },
         "26.2-rc-2": {
