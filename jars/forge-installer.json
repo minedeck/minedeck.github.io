@@ -4,13 +4,13 @@
     "type": "server",
     "data": {
         "26.3": {
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.3-66.0.12/forge-26.3-66.0.12-installer.jar",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.3-66.0.13/forge-26.3-66.0.13-installer.jar",
             "checksum": {
-                "sha1": "e0b9aab0a4911c9f81060cb5fe1c7ea0e1d91e3d",
+                "sha1": "f0c74c9435b5b54e0f0cc97f13c1d39bd7d2d49b",
                 "sha256": null
             },
             "type": "latest",
-            "build": "66.0.12"
+            "build": "66.0.13"
         },
         "26.2": {
             "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.1.0/forge-26.2-65.1.0-installer.jar",
