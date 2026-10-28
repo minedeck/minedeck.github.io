@@ -115,13 +115,6 @@
             "installer": "1.1.2",
             "type": "stable"
         },
-        "1.21": {
-            "url": "https://meta.fabricmc.net/v2/versions/loader/1.21/0.20.1/1.1.2/server/jar",
-            "checksum": null,
-            "loader": "0.20.1",
-            "installer": "1.1.2",
-            "type": "stable"
-        },
         "1.20.6": {
             "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.6/0.20.1/1.1.2/server/jar",
             "checksum": null,
