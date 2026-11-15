@@ -4,13 +4,13 @@
     "type": "server",
     "data": {
         "26.3": {
-            "url": "https://fill-data.papermc.io/v1/objects/3d0a694905ddd9ec956af52259d555274ab8d3191871296d7094c290b686920d/folia-26.3-6.jar",
+            "url": "https://fill-data.papermc.io/v1/objects/9be1d199d7156dbfecfaf85d2c1cae114eb7e963c098f24d79c34071b6c84ddc/folia-26.3-8.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "3d0a694905ddd9ec956af52259d555274ab8d3191871296d7094c290b686920d"
+                "sha256": "9be1d199d7156dbfecfaf85d2c1cae114eb7e963c098f24d79c34071b6c84ddc"
             },
-            "build": 6,
-            "type": "alpha"
+            "build": 8,
+            "type": "stable"
         },
         "26.2": {
             "url": "https://fill-data.papermc.io/v1/objects/128a634192261cd38bb4a5dc54075018a0f896fd6c6f529e37dca6e99e32b3b3/folia-26.2-7.jar",
