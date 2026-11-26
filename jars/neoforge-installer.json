@@ -85,13 +85,13 @@
             "build": "21.3.100"
         },
         "1.21.1": {
-            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.267/neoforge-21.1.267-installer.jar",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.268/neoforge-21.1.268-installer.jar",
             "checksum": {
                 "sha1": null,
-                "sha256": "25bbe66e82205abeccdfd23bdac61e6a8e9ff1333885f3c9f31d392a5ec97e60"
+                "sha256": "6e9da1f350ab34b303ebdec2d446389bd176632d84b61f7ba52eb5a80086c8ff"
             },
             "type": "stable",
-            "build": "21.1.267"
+            "build": "21.1.268"
         },
         "1.21.0": {
             "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.0.167/neoforge-21.0.167-installer.jar",
